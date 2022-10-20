@@ -20,3 +20,6 @@ start at May 23 2021
 
 # page URI
 https://wecup.co.kr
+
+# Campaign
+![그림1](https://user-images.githubusercontent.com/48237348/197014239-d64bc4b0-b27a-45b3-b0fe-f22514448c23.gif)
